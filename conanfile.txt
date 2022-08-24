@@ -1,0 +1,9 @@
+[requires]
+benchmark/1.6.2
+boost/1.78.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[options]
